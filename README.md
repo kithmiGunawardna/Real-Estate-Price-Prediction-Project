@@ -1,7 +1,7 @@
 # Real_State_Price_prediction
 this is real state price prediction project witch is used python as programing language flask as back end server 
 
-Welcome to the Property Price Prediction Web Application! This project is designed to predict property prices using machine learning techniques. The application is built with a Python backend using Flask for server development, scikit-learn for model building, and incorporates data cleaning and visualization with Pandas and Matplotlib. The frontend is developed using HTML, CSS, and JavaScript to provide a user-friendly interface.
+Welcome to the Property Price Prediction Web Application! This project is designed to predict property prices using machine learning techniques. The application is built with  scikit-learn for model building, and incorporates data cleaning and visualization with Pandas and Matplotlib.
 
 ## Table of Contents
 
@@ -17,17 +17,14 @@ The Property Price Prediction Web Application is a platform that utilizes machin
 
 ## Features
 
-- User-friendly interface for property details input.
 - Accurate property price predictions using a trained machine learning model.
 - Interactive data visualization for better understanding of input data and predictions.
 
 ## Technologies
 
-- Backend: Python, Flask
 - Data Cleaning and Analysis: Pandas
 - Data Visualization: Matplotlib
 - Machine Learning: scikit-learn
-- Frontend: HTML, CSS, JavaScript
 - Version Control: Git
 
 
